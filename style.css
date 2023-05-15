@@ -1,0 +1,7 @@
+:root {
+    --cor-de-fundo-:#BEBEBE;
+}
+
+body {
+    background-color: var(--cor-de-fundo-);
+}
