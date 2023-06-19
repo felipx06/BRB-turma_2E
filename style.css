@@ -1,11 +1,11 @@
-@import url("style/header.css");
+@import url("sytle/header.css");
 @import url("sytle/banner.css");
 
 :root {
     --cor-de-fundo-:#BEBEBE;
     --branco:#FFFFFF;
     --laranja:#eb9b00;
-    --azul-degrade: liner-gradient(97.54, #002f52 35.49%, #326589 165,37%);
+    --azul-degrade: liner-gradient(97.54, #002f52 35.49%, #326589 165.37%);
     --fonte-pricipal: "poppins"
 }
 
