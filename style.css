@@ -1,7 +1,7 @@
 @import url("sytle/header.css");
 @import url("sytle/banner.css");
 
-:root {
+:root{
     --cor-de-fundo-:#BEBEBE;
     --branco:#FFFFFF;
     --laranja:#eb9b00;
@@ -9,7 +9,7 @@
     --fonte-pricipal: "poppins"
 }
 
-body {
+body{
     background-color: var(--cor-de-fundo-);
     font-family: var(--fonte-pricipal);
     font-size: 16px;
